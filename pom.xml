@@ -12,7 +12,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<!-- Plugin的属性定义 abcdd-->
+		<!-- Plugin的属性定义 abcdd递四方速递-->
 		<jdk.version>1.6</jdk.version>
 	</properties>
 
